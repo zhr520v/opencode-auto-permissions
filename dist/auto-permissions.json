@@ -1,0 +1,9 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "model": "clirelay/gpt-6-luna",
+  "variant": "low",
+  "timeoutMs": 30000,
+  "userMessageCount": 8,
+  "sessionApprovals": true,
+  "shadow": false
+}
